@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000" # Map port 5000 of the container to port 5000 on the host
+    volumes:
+      - .:/app # Mount the current directory to /app in the container
+    environment:
+      FLASK_APP: app/__init__.py
+      FLASK_ENV: development # Set to 'production' in a production environment
