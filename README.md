@@ -50,4 +50,5 @@ python app.py
 Access the API through the designated endpoints.
 
 ## output
-![image](https://github.com/user-attachments/assets/e1293e30-ae0c-4d73-b598-26c3877328c4)
+![image](https://github.com/user-attachments/assets/e7a5a856-2391-4976-9917-bea54f6ba7f4)
+
