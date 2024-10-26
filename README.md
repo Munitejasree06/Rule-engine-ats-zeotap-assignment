@@ -1,4 +1,4 @@
-# Rule-engine-ats-zeotap-assignment
+# Rule-engine-ast-zeotap-assignment
 
 ## Objective
 This application is a simple 3-tier rule engine that determines user eligibility based on various attributes like age, department, income, spend, etc. It utilizes an Abstract Syntax Tree (AST) to represent conditional rules, allowing for dynamic creation, combination, and modification of these rules.
